@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ezequiel Figueroa
-- 👀 I’m interested in maths, Julia and back-end
-- 🌱 I’m currently learning Julia 
+- 👀 I’m interested in maths, Julia lang, back-end and web dev
+- 🌱 I’m currently learning Julia and web development
+- 
 
 
 <!---
